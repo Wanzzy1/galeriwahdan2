@@ -2,7 +2,7 @@
 
 ## Tentang Website
 
-Simpelnya ini hanyalah Web yang saya buat dengan mengikuti style instagram, facebook dan twitter namun versi low budget yang sangat minim. meskipun tidak terlalu mirip, tapi fungsi yang ditonjolkan dari web ini adalah mampu memuat gallery dan user lain bisa melihat gambar apa yang kita posting.
+Aplikasi Web Galery Ujikom yang dibuat sederhana
 
 ## Fitur
 
@@ -89,15 +89,6 @@ php artisan migrate --seed
 7. Buat Storage Link
 ```
 php artisan storage:link
-```
-
-8. jangan lupa menginstall NPM
-```
-npm install
-```
-lalu jalankan
-```
-npm run dev
 ```
 
 8. Jalankan Serve
